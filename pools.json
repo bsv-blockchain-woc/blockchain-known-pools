@@ -48,6 +48,14 @@
             "name" : "Satoshi.io",
             "link" : "https://satoshi.io/"
         },
+        "pool.kryptex.com": {
+            "name" : "Kryptex",
+            "link" : "https://pool.kryptex.com"
+        },
+        "Bitofsin": {
+            "name" : "Bitofsin",
+            "link" : ""
+        },
         "[BSV]": {
             "name" : "Unknown - ..[BSV]..",
             "link" : ""
