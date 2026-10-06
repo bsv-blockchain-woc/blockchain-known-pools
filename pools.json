@@ -60,6 +60,10 @@
             "name" : "KardanPool",
             "link" : "https://kardanpool.com/"
         },
+        "hash-hut.net": {
+            "name" : "hash-hut.net",
+            "link" : "https://hash-hut.net/"
+        },
         "[BSV]": {
             "name" : "Unknown - ..[BSV]..",
             "link" : ""
